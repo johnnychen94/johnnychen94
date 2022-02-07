@@ -8,7 +8,7 @@ I was a philosophy student, and now I'm a PhD student in mathematics. I enjoy sh
 others, yet I'm a slow learner, or at least I think so.
 
 I use MATLAB, Python, Julia, Ansible, Docker for my daily work. Among those I enjoy Julia most. I
-heard people codeing ~100 lines in average per day, in that sense, I'm a poor programmer.
+heard people code ~100 lines in average per day, in that sense, I'm a poor programmer.
 
 I do image processing and deep learning for my daily research. I do not want to be one of the too
 many in the overly optimistic _typical_ deep learning fields; that's not very fun. Or in other
