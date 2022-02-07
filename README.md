@@ -25,7 +25,7 @@ A few noteworthy things I did since I became a programmer:
 - I'm an active JuliaImages mentor during [GSoC (Google Summer of Code)][GSoC] and [OSPP (Open
   Source Promotion Plan)][OSPP] events
 
-I said I enjoy sharing my knowledges with others, here's a few tutorials I made (in Chinese):
+I said I enjoy sharing my knowledges with others, here are a few tutorials I made (in Chinese):
 
 - Julia 入门系列之一起读文档 (Learn Julia by reading the docs together with me) in [Bilibili][一起读文档]
 - Julia 语言及其应用 (a series of lecture that introduces Julia in ECNU) with its materials [here][Julia 语言及其应用]
