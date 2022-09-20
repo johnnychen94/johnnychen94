@@ -52,10 +52,10 @@ is not as customizable as Linux or as powerful as Windows.
 I dislike competition, I enjoy collaboration. I'm bad at advertising. I enjoying fixing things by
 breaking it up.
 
-I'm expected to be gradudated in summer 2023, if everything moves smoothly. I've been an internship
-in a startup company founded by experienced ex-Googlers but I dislike the feeling of being treated
-as a labor (工具人) in companies. Hopefully I can be proven wrong. For now I do enjoy the life in
-university so I plan to find a postdoc job after that, if I can.
+I just paused my Ph.D career and am working fulltime in [tongyuan.cc](https://github.com/Suzhou-Tongyuan)
+for the next year (or next two years) to try to bring Julia in China to the next level. It's a full-time
+job (career) that I plan to devote most of my time to, thus so I'm afraid that I don't have much time
+contributing freely to personal projects.
 
 <!-- video links -->
 [一起读文档]: https://space.bilibili.com/356692611/channel/seriesdetail?sid=501523
